@@ -22,6 +22,7 @@
 <br>
 <br>
 <br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravr397&label=Profile%20views&color=0e75b6&style=flat" alt="gauravr397" /> </p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravr397&column=7&theme=onedark" />
