@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Android Development**
 
-- 💬 Ask me about **Android, Python,Java,HTML**
+- 💬 Ask me about **Android,Kotlin,JS,Python,Java,HTML**
 
 - 📫 How to reach me **gauravr397@gmail.com**
 
