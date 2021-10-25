@@ -5,6 +5,9 @@
 
 <br>
 
+- 🎓 Information technology Engineer
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
 - 🔭 I’m currently working on **Face lock/Unlock App**
 
 - 🌱 I’m currently learning **Android dev,,Kotlin,Java,Frameworks**
@@ -17,7 +20,7 @@
 
 - 📫 How to reach me **gauravr397@gmail.com**
 
-- ⚡ Fun fact **I think i have a good sense of humour**
+- ⚡ Fun fact **I am also a GAMER!**
 
 <br>
 <br>
