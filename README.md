@@ -41,7 +41,7 @@
 <a href="https://twitter.com/gauravr397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravr397" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-raghav-ba0098145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-raghav-ba0098145/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17058634/gaurav-raghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17058634/gaurav-raghav" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/gcWMgPf6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/gcWMgPf6" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/zvZ48nG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/zvZ48nG" height="30" width="40" /></a>
 </p>
 
 
