@@ -1,7 +1,7 @@
 ![123456](https://user-images.githubusercontent.com/57338455/135743088-496ce880-6bf2-4cf2-8946-e8b5e92bf589.png)
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57338455/135742612-f62c1561-7fbd-491c-9b04-a7231eb9af84.gif"/>
+<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57338455/135742612-f62c1561-7fbd-491c-9b04-a7231eb9af84.gif"/>
 
 <br>
 
