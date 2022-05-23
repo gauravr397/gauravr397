@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/57338455/135742612-f62c1561-7fbd-491c-9b04-a7231eb9af84.gif"/>
 
-
+<br>
 
 - 🎓 Information technology Engineer
 - 🥅 2021 Goals: Contribute more to Open Source projects
