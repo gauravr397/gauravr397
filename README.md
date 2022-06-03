@@ -6,7 +6,7 @@
 <br>
 
 - 🎓 Information technology Engineer
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 - 🔭 I’m currently working on **Face lock/Unlock App**
 
