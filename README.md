@@ -50,6 +50,6 @@
 
 <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravr397&show_icons=true&locale=en&layout=compact" alt="gauravr397" />
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<align="right"> <img src=https://github-readme-stats.vercel.app/api?username=gauravr397&show_icons=true alt=gauravr397 /> 
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <align="right"> <img src=https://github-readme-stats.vercel.app/api?username=gauravr397&show_icons=true alt=gauravr397 /> 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravr397&" alt="gauravr397" /></p>
 
