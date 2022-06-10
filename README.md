@@ -22,14 +22,14 @@
 
 - ⚡ Fun fact **I am also a GAMER!**
 
+<!-- <br>
 <br>
 <br>
 <br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravr397&label=Profile%20views&color=0e75b6&style=flat" alt="gauravr397" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravr397&label=Profile%20views&color=0e75b6&style=flat" alt="gauravr397" /> </p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gauravr397&column=7&theme=onedark" />
-</div>
+</div>-->
 <br>
 <br>
 <p align="left"> <a href="https://twitter.com/gauravr397" target="blank"><img src="https://img.shields.io/twitter/follow/gauravr397?logo=twitter&style=for-the-badge" alt="gauravr397" /></a> </p>
@@ -50,6 +50,6 @@
 
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravr397&show_icons=true&locale=en&layout=compact" alt="gauravr397" />
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=gauravr397&show_icons=true alt=gauravr397 /></p>
+<!--<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=gauravr397&show_icons=true alt=gauravr397 /></p>-->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravr397&" alt="gauravr397" /></p>
 
